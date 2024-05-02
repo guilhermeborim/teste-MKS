@@ -16,8 +16,8 @@ Desafio proposto peela empresa MKS Desenvolvimento de Sistemas.
 <details>
   <summary>Rodar o projeto localmente</summary><br>
   
-  1. Clone o repositório `git clone git@github.com:SheilaNS/challenge-mks-front-end.git`<br>
-  2. Entre na pasta do repositório que você acabou de clonar `cd challenge-mks-front-end`<br>
+  1. Clone o repositório `git clone https://github.com/guilhermeborim/teste-MKS.git`<br>
+  2. Entre na pasta do repositório que você acabou de clonar `cd teste-MKS`<br>
   3. Instale as dependências `npm install`<br>
   4. Inicialize o projeto `npm run dev`<br>
   5. Abra o navegador<br>
@@ -114,10 +114,3 @@ Desafio proposto peela empresa MKS Desenvolvimento de Sistemas.
 ```
 
 </details>
-
-<br>
-
-#### Desenvolvedora do projeto Sheila Nakashima dos Santos
-<a href="https://wa.me/+5511995985416?text=Sheila%20Dev" target="_blank" rel="external"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" height="25px" /></a>
-<a href="https://www.linkedin.com/in/sheila-nakashima-dos-santos/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="25px"></a>
-<a href="mailto:shei.nsantos@gmail.com" target="_blank" rel="external"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="25px"></a>
