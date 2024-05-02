@@ -3,7 +3,7 @@ Desafio proposto peela empresa MKS Desenvolvimento de Sistemas.
 
 ## Links do projeto
 - [Repositorio do desafio](https://github.com/MKS-desenvolvimento-de-sistemas/mks-frontend-challenge)
-- [Projeto no Vercel](https://challenge-mks-front-end.vercel.app/products)
+- [Projeto no Vercel](https://teste-mks-tawny.vercel.app/products)
 
 ## Tecnologias utilizadas
 - [Next.js](https://nextjs.org/)
